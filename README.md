@@ -1,7 +1,7 @@
 # Project-Presentation-
 # 🌟 Digital Portfolio - Work Readiness Training
-**Name:** Your Full Name  
-**Student Number:** Your Student Number  
+**Name:** Mpotseng Heisi
+**Student Number:**222309792  
 **Subject Code:** PRP370S  
 **Qualification:** Diploma in Information and Communication Technology  
 **Date:** 19 May – 23 May 2025
@@ -74,8 +74,7 @@
 ## 5. 📬 CV Submission
 
 ### 📄 Evidence
-- Screenshot of submission confirmation from email or Blackboard.
-  - `![CV Submission](images/cv-submission-confirmation.png)`
+[CV](https://github.com/mpotsengheisi/Project-Presentation-/blob/main/Mpotseng%2BCV_merged.pdf)
 
 ### ✍️ Reflection (Using STAR: Situation, Task, Action, Result)
 **Situation:** Describe the background or context of the experience.  
